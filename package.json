@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "elm-make --output build/index.html"
+    "build": "elm-make --output build/index.html src/main.elm"
   }
 }
